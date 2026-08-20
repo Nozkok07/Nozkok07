@@ -25,12 +25,3 @@ Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğren
 
 ---
 
-### 📊 GitHub İstatistikleri & Aktiflik
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nozkok07&theme=tokyo-night&hide_border=true" width="100%" alt="Aktivite Grafiği" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nozkok07&theme=tokyonight&hide_border=true" alt="Katkı Serisi" />
-</p>
