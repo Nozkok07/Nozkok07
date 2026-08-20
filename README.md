@@ -27,7 +27,8 @@ Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğren
 
 ### 📊 GitHub İstatistikleri
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nozkok07&show_icons=true&theme=tokyonight" alt="Nebi'nin GitHub İstatistikleri" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozkok07&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" height="150" />
-</p>
+![Nebi'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Nozkok07&show_icons=true&theme=tokyonight&locale=tr)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozkok07&layout=compact&theme=tokyonight&locale=tr)
+
+![Katkı Serisi (Streak)](https://streak-stats.demolab.com/?user=Nozkok07&theme=tokyonight)
